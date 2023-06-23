@@ -1,0 +1,112 @@
+.navbar-brand {
+    font-family: Jacques Francois;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+
+    color: #000000;
+}
+
+/* Tutup Header */
+
+/* Order Finish */
+
+.finish {
+    background-color: #ffddca;
+}
+
+.finish h5 {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    margin-top: 0px;
+
+    color: #000000;
+}
+
+
+
+.finish p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    margin-top: 20px;
+
+    color: #000000;
+}
+
+.btn-warning{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+
+    width: 350px;
+    height: 40px;
+
+    background: #FFBD37;
+    box-shadow: 0px 4px 10px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Tutup order finish */
+
+/* Footer */
+.footer {
+    background-color: #a89e95;
+}
+
+.footer h2 {
+    font-family: 'Jacques Francois';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 53px;
+}
+
+.footer p {
+    font-family: 'Jacques Francois';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 50px;
+}
+
+.footer .btn-cta img {
+    position: absolute;
+    width: 295px;
+    height: 118px;
+    left: 850px;
+    top: 120px;
+}
+
+/* Tutup Footer */
+
+/* End */
+.footer-small {
+    background-color: #000;
+    text-align: center;
+}
+
+.footer-small p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+
+    margin-top: 20px;
+
+    color: #ffffff;
+}
+
+.footer-small a {
+    font-weight: 500;
+    font-size: 16px;
+
+    text-decoration: none;
+
+    color: #FCBB3A;;
+}
+/* Tutup End */
